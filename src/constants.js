@@ -72,7 +72,7 @@ export const SURPRISE_DATA = {
             emoji: "🥺",
             color: "from-pink-500 to-rose-600",
             content: "Lembre-se dos nossos momentos juntos. Eu estou pensando em você exatamente agora. A distância é apenas um detalhe perto do que ainda vamos viver meu amor, você é tudo pra mim e eu te amo muito.",
-            image: "https://placehold.co/400x300/1e1e2e/FFF?text=Foto+Juntos"
+            image: "https://placehold.co/400x300/1e1e2e/FFF?text=Vamos+Ficar+Juntos+Para+Sempre"
         },
         {
             id: 3,
@@ -80,7 +80,7 @@ export const SURPRISE_DATA = {
             emoji: "😂",
             color: "from-yellow-400 to-orange-500",
             content: "Lembre de todos os momentos que nos pegamos dando risada a toa juntos, das nossas piadas, das nossas conversas, e de quando você me pega olhando pra você e sorrindo sem motivo. Você é a minha felicidade.",
-            image: "https://placehold.co/400x300/1e1e2e/FFF?text=Momento+Engracado"
+            image: "https://placehold.co/400x300/1e1e2e/FFF?text=Seu+Sorriso+Lindo"
         },
         {
             id: 4,
